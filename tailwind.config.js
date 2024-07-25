@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-    //darkMode: 'class', // or 'media' for automatic dark mode based on user's system settings
+    darkMode: 'class', // or 'media' for automatic dark mode based on user's system settings
     content: [
       "./resources/**/*.blade.php",
       "./resources/**/*.js",
